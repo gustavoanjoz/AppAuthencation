@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629653043449",
+    "project_id": "authentication-apenas",
+    "storage_bucket": "authentication-apenas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629653043449:android:d2f22b9805ec907f2e0a28",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629653043449-1dfaac9rare5e03rjlovb8pgno6ngb54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGxr8eCxRg36J45n4cAB-pQQna-o_rlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629653043449-1dfaac9rare5e03rjlovb8pgno6ngb54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
